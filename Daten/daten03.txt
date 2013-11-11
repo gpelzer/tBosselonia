@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Jede Mannschaft erhält eine Kugel.
+=======
+Es gibt zwei Kugeln.
+>>>>>>> origin/master
